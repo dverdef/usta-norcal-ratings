@@ -1,7 +1,7 @@
 #Key Insights
 
 ## 1. Player Distribution
-This insight calculated the total number of registered male players who played during the Spring 18+ season for USTA Norcal. We found that most male players for the USTA Norcal section fall within the 3.5 to 4.5 rating range, which indicates a mid-skill to advanced player population, but much fewer 4.5 players advanced to the elite 5.0 rating. The smallest rating level was the highly advanced 5.5 rating, which consisted of only 10 players out of the total player population of 4,986 players, or 0.2% of the player population.
+This insight calculated the total number of registered male players who played during the Spring 18+ season for USTA Norcal. We found that most male players for the USTA Norcal section fall within the 3.5 to 4.5 rating range, which indicates a mid-skill to advanced player population for NorCal. The 3.5, 4.0, and 4.5 rating trio compromise 81.7% of the NorCal player population. The smallest rating level was the highly advanced 5.5 rating, which consisted of only 10 players out of the total player population of 4,986 players, or 0.2% of the player population.
 
 
 ## 2. Elite Players
